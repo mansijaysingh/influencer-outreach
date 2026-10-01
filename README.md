@@ -14,7 +14,7 @@ YouTube Data API → Discovery → Enrichment → Filtering → AI Personalizati
 |---|---|
 | Channels discovered | 309 |
 | Enriched | 309 |
-| Public emails found (all channels) | 79 |
+| Public emails found (all channels) | 80 |
 | Passed filtering | 36 |
 | Passed and have a public email | 9 |
 | Messages generated (email + DM) | 36 |
